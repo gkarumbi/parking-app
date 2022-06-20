@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Parking App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is an implementation of the famous parking lot problem in React! git clone the project run and enjoy!!
 
 ## Available Scripts
 
